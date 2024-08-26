@@ -19,7 +19,7 @@
 ### Local Installation
 1. Clone the repository:
    ```bash
-   git clone http://git.istad.co:3248/cstad-foundation-2nd-generation/portfolio-builder/portfolio-builder-website.git
+   git clone https://github.com/itsmestevee/Showcase.git
 
 2. Run this command
     ```bases 
@@ -31,19 +31,6 @@ Open http://localhost/5173 with your browser to see result
 
 ### Deployment
 
-Deployment: https://showcase-flax.vercel.app/
+Deployment: 
 
 [Get Started](#getting-started)
-
-## Page URL
-
-User Side (not having account)
-
-1. [Homepage](https://showcase-flax.vercel.app/)
-2. [Login](https://showcase-flax.vercel.app/login) : /login
-3. [Register](https://showcase-flax.vercel.app/login) : /singup
-
-User side (after Login or SignUp)
-
-1. [HomeDashboard](https://showcase-flax.vercel.app/dashboard) : /dashboard
-2. [UserProfile](https://showcase-flax.vercel.app/dashboard/profile) : /dashboard/profile
